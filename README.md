@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Aldy 👋</h1>
   <p>
-    Passionate Software Developer from Indonesia 🇮🇩
+    Passionate Software Developer from Indonesia
   </p>
   <p>
     <a href="https://www.linkedin.com/in/fawwas-aldy" target="_blank">
@@ -36,9 +36,9 @@ I'm a software developer passionate about building efficient and scalable soluti
 
 <div align="center">
   <!-- Languages -->
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
@@ -47,9 +47,9 @@ I'm a software developer passionate about building efficient and scalable soluti
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/>
   <br>
   <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Gin-007C9F?style=flat&logo=gin&logoColor=white" alt="Gin"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Gin-007C9F?style=flat&logo=gin&logoColor=white" alt="Gin"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
   <br>
