@@ -6,8 +6,8 @@
   <p>
     <a href="https://www.linkedin.com/in/fawwas-aldy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/fawwasaldy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://codeforces.com/profile/YourUsername" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-    <a href="mailto:fawwasaldy2111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://codeforces.com/profile/cyanstar" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+    <a href="mailto:fawwas.aldy2111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
@@ -20,7 +20,7 @@ I'm a software developer passionate about building efficient and scalable soluti
 - 🔭 I’m currently working on **a private project using Golang, C#, and Java**
 - 🌱 I’m currently learning **System Design and Clean Architecture.**
 - 💬 Ask me about **Golang, JavaScript, or anything related to backend web development!**
-- 📫 How to reach me: **[fawwasaldy2111@gmail.com](mailto:fawwasaldy2111@gmail.com)**
+- 📫 How to reach me: **[fawwasaldy2111@gmail.com](mailto:fawwas.aldy2111@gmail.com)**
 
 ---
 
