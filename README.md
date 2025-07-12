@@ -20,7 +20,7 @@ I'm a software developer passionate about building efficient and scalable soluti
 - 🔭 I’m currently working on **a private project using Golang, C#, and Java**
 - 🌱 I’m currently learning **System Design and Clean Architecture.**
 - 💬 Ask me about **Golang, JavaScript, or anything related to backend web development!**
-- 📫 How to reach me: **[fawwasaldy2111@gmail.com](mailto:fawwas.aldy2111@gmail.com)**
+- 📫 How to reach me: **[fawwas.aldy2111@gmail.com](mailto:fawwas.aldy2111@gmail.com)**
 
 ---
 
