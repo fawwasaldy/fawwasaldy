@@ -10,7 +10,7 @@
     <a href="https://github.com/fawwasaldy" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://codeforces.com/profile/YourUsername" target="_blank">
+    <a href="https://codeforces.com/profile/cyanstar" target="_blank">
       <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces">
     </a>
     <a href="mailto:fawwasaldy2111@gmail.com">
