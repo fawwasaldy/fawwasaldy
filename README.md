@@ -17,7 +17,7 @@
 
 I'm a software developer passionate about building efficient and scalable solutions while adhering to clean code principles. My journey in tech is driven by a constant desire to learn and create things that solve real-world problems.
 
-- 🔭 I’m currently working on **a private project using Golang, C#, and Java**
+- 🔭 I’m currently working on **a private project using Golang, C#, and Java/Kotlin (and really enjoying Spring Boot right now).**
 - 🌱 I’m currently learning **System Design and Clean Architecture.**
 - 💬 Ask me about **Golang, JavaScript, or anything related to backend web development!**
 - 📫 How to reach me: **[fawwas.aldy2111@gmail.com](mailto:fawwas.aldy2111@gmail.com)**
