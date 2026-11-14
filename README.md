@@ -65,5 +65,5 @@ I'm a software developer passionate about building efficient and scalable soluti
   <img width="595" src="https://github-readme-stats-fawwasaldy.vercel.app/api?username=fawwasaldy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <br>
   <img height="180" src="https://github-readme-stats-fawwasaldy.vercel.app/api/top-langs/?username=fawwasaldy&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats-fawwasaldy.vercel.app/?user=fawwasaldy&theme=tokyonight&hide_border=true&card_width=400&card_height=180" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </div>
